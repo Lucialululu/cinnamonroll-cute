@@ -1,0 +1,21 @@
+{
+  "name": "cinnamonroll-cute",
+  "displayName": "cute_sanrio_theme",
+  "description": "Blue and white colored theme inspired by Cinnamonroll from Sanrio",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sanrio-cute",
+        "uiTheme": "vs",
+        "path": "./themes/sanrio-cute-color-theme.json"
+      }
+    ]
+  }
+}
