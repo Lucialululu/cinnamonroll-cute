@@ -1,6 +1,6 @@
-# Cute theme inspired by Cinnamonroll from Sanrio!
+# Cute theme inspired by Cinnamoroll from Sanrio!
 
-This is a theme for VsCode with colors that resemble Cinnamonroll from the Sanrio universe.
+This is a theme for VsCode with colors that resemble Cinnamoroll from the Sanrio universe.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⡤⠤⠤⠤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠉⠛⢦⣤⠶⠦⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
