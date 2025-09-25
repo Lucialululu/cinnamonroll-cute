@@ -20,7 +20,13 @@
 		"sideBarSectionHeader.border": "#5abdff",
 		"sideBarTitle.foreground": "#000000",
 		"sideBar.border": "#ffffff",
-		
+		"notebook.selectedCellBorder": "#5abdff",
+		"notebook.focusedCellBorder": "#5abdff",
+		"notebook.cellBorderColor": "#5abdff",
+		"notebook.inactiveSelectedCellBorder": "#5abdff",
+		"notebook.focusedEditorBorder": "#5abdff",
+		"notebook.selectedCellBackground": "#ff9797",
+
 		"list.inactiveSelectionBackground": "#ffffff",
 		"list.inactiveSelectionForeground": "#000000",
 		"list.hoverBackground": "#ffffff",
