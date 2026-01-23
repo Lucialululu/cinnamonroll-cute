@@ -29,13 +29,17 @@ First off, you have to clone this repository:
 git clone https://github.com/Lucialululu/cinnamonroll-cute
 ```
 
-Then you have to locate a folder named `.vscode.`.
+Then you have to locate a folder named `.vscode`.
 
-## For macos users:
+### For macos users:
 
 This folder is often hidden on macbook, so by clicking `cmd + shift + .` at once, you can reveal it. Once inside the `.vscode` folder, go to `extensions` and put this repository in that folder, so the directory will be `.vscode/extensions/`.
 
 After this, you should be able to locate this theme in your VsCode extensions tab!
+
+### For windows users:
+
+Steps are the same, with locating the `.vscode` folder first, then put this repo folder into extensions.
 
 ___
 
