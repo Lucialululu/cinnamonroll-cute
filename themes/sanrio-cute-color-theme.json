@@ -264,7 +264,13 @@
 		"breadcrumb.activeSelectionForeground": "#4e4e4e",
 		"editorGutter.commentRangeForeground": "#424242",
 		"debugExceptionWidget.background": "#f3f3f3",
-		"debugExceptionWidget.border": "#d5d5d5"
+		"debugExceptionWidget.border": "#d5d5d5",
+		"modernEditorTab.inactiveBackground": "#ff8888",
+		"modernEditorTab.hoverBackground": "#ff5757",
+		"modernEditorTab.hoverForeground": "#ffffff",
+		"modernEditorTab.activeBackground": "#ffffff",
+		"modernEditorTab.activeHoverBackground": "#ffe0e0",
+		"modernEditorTab.activeForeground": "#000000",
 	  },
 	"tokenColors": [
 		{
