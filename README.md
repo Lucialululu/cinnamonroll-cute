@@ -52,43 +52,46 @@ If you really like this theme, you can donate me on MobilePay :).
   <img src="images/cute_pic.webp" width="280" alt="Cinnamoroll">
 </p>
 
-<h1 align="center">☁️ Cinnamoroll Cute Theme ☁️</h1>
+<h1 align="center"> ────୨ৎ──── Cinnamoroll Cute Theme ────୨ৎ──── </h1>
 
 <p align="center">
-  A soft, fluffy light theme for VS Code inspired by Cinnamoroll from Sanrio 🩵🤍🩷
+  A very cute and light theme for VS Code inspired by Cinnamoroll from Sanrio!
 </p>
 
 ---
 
-## ✨ Features
+# **Features**
 
-- 🩵 Sky-blue sidebar and cozy cinnamon-brown activity bar
-- 🩷 Pink inactive tabs so you always know which file you're on
-- 🤍 Clean white editor that's easy on the eyes
-- 📓 Jupyter notebook colors that match the rest of the theme
+> ૮₍ ˃ ⤙ ˂ ₎ა Sky-blue sidebar and cozy cinnamon-brown activity bar
 
-## 📸 Preview
+> ૮₍ ˃ ⤙ ˂ ₎ა Pink inactive tabs so you always know which file you are on
 
-<!-- Add a screenshot: images/preview.png -->
+> ૮₍ ˃ ⤙ ˂ ₎ა Clean white editor that is easy on the eyes
+
+> ૮₍ ˃ ⤙ ˂ ₎ა Jupyter notebook colors that match the rest of the theme
+
+# **Preview**
+
 ![Preview](images/preview.png)
 
-## 💾 Installation
+# **Installation**
 
-This theme isn't on the VS Code Marketplace yet, but it's easy to install by hand.
+This theme is not on the VS Code Marketplace yet, but it is easy to install by hand.
 
 **1. Clone the repo into your VS Code extensions folder**
 
 | OS | Extensions folder |
 |---|---|
-| 🍎 macOS / 🐧 Linux | `~/.vscode/extensions` |
-| 🪟 Windows | `%USERPROFILE%\.vscode\extensions` |
+| macOS / Linux | `~/.vscode/extensions` |
+| Windows | `%USERPROFILE%\.vscode\extensions` |
 
 ```bash
 cd ~/.vscode/extensions
 git clone https://github.com/Lucialululu/cinnamonroll-cute
 ```
 
-> 💡 On macOS, `.vscode` is a hidden folder. In Finder, press `Cmd + Shift + .` to show hidden files.
+> [!NOTE]
+> On macOS, `.vscode` is a hidden folder. In Finder, press `Cmd + Shift + .` to show hidden files.
 
 **2. Restart VS Code**
 
@@ -96,8 +99,8 @@ git clone https://github.com/Lucialululu/cinnamonroll-cute
 
 Open the Command Palette (`Cmd/Ctrl + Shift + P`), run **Preferences: Color Theme**, and choose **Cinnamoroll Sanrio**.
 
-## 🩷 Support
+# **Support lowkey ( ˘͈ ᵕ ˘͈♡)**
 
 I use this theme every day (and might never change it!). If you like it too, you can support me on MobilePay :)
 
-<p align="center"><b>Enjoy! ☁️</b></p>
+<p align="center"><b>Enjoy! ૮ ˶ᵔ ᵕ ᵔ˶ ა</b></p>
