@@ -49,7 +49,7 @@ If you really like this theme, you can donate me on MobilePay :).
  -->
 
 <p align="center">
-  <img src="images/cinnamoroll.webp" width="280" alt="Cinnamoroll">
+  <img src="images/cute_pic.webp" width="280" alt="Cinnamoroll">
 </p>
 
 <h1 align="center">☁️ Cinnamoroll Cute Theme ☁️</h1>
