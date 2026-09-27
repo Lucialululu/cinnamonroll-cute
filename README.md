@@ -104,3 +104,5 @@ Open the Command Palette (`Cmd/Ctrl + Shift + P`), run **Preferences: Color Them
 I use this theme every day (and might never change it!). If you like it too, you can support me on MobilePay :)
 
 <p align="center"><b>Enjoy! ૮ ˶ᵔ ᵕ ᵔ˶ ა</b></p>
+
+![sanrio](images/sanrio.jpg)
